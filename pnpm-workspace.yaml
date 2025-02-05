@@ -171,7 +171,7 @@ catalog:
   vitest: ^2.1.4
   vue: ^3.5.12
   vue-eslint-parser: ^9.4.3
-  vue-i18n: ^10.0.4
+  vue-i18n: ^11.1.0
   vue-router: ^4.4.5
   vue-tsc: ^2.1.10
   vxe-pc-ui: ^4.2.49
